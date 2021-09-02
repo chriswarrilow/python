@@ -13,7 +13,7 @@ as the # is at the begining of the line.
 < lessthan
 > greater
 = equals
-=> equal to or greather than
+>= equal to or greather than
 <= lessthan or equal to
 
 name = number or name | will create a variable to store assigned name or number
@@ -34,3 +34,9 @@ to type like this And
 it will still work"""
 
 input() will ask a user to type something.
+age = input()  would ask the user for his/her age and then assign the number
+input by the user and the age variable.
+
+inputs can also be done like this:
+age = input("How old are you? ") but it will always assign the number to the
+first word as a variable.
