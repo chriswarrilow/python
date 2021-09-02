@@ -2,24 +2,24 @@ print("text") or print('text') will print out the text to the console.
 
 anything between "" is classed as a string.
 
-A # will allow for comments and will not change or interfear with any code aslong
-as the # is at the begining of the line.
+A # will allow for comments and will not change or inter-fear with any code as long
+as the # is at the beginning of the line.
 
 + adds
 - minus
 * multiply
 / divides
-% modulus = remainder
+% modulus
 < lessthan
 > greater
 = equals
->= equal to or greather than
-<= lessthan or equal to
+>= equal to or greater than
+<= less than or equal to
 
 name = number or name | will create a variable to store assigned name or number
 to the variable.
 
-variable names will need '' and numbers dont.
+variable names will need '' and numbers don't.
 
 using print(f"text here") will allow you to put variables inside the string.
 example: print(f"there are {cars} parked here") where {cars} would be a number
