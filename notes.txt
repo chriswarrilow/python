@@ -15,6 +15,7 @@ as the # is at the beginning of the line.
 = equals
 >= equal to or greater than
 <= less than or equal to
+, separates commands ie - print("The script is called:", script)
 
 name = number or name | will create a variable to store assigned name or number
 to the variable.
@@ -38,5 +39,5 @@ age = input()  would ask the user for his/her age and then assign the number
 input by the user and the age variable.
 
 inputs can also be done like this:
-age = input("How old are you? ") but it will always assign the number to the
-first word as a variable.
+age = input("How old are you? ") but it will always assign the input by the user
+to the variable.
