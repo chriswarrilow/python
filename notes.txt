@@ -10,7 +10,7 @@ as the # is at the beginning of the line.
 * multiply
 / divides
 % modulus
-< lessthan
+< less than
 > greater
 = equals
 >= equal to or greater than
@@ -41,3 +41,18 @@ input by the user and the age variable.
 inputs can also be done like this:
 age = input("How old are you? ") but it will always assign the input by the user
 to the variable.
+
+from sys = from module (meaning from the sys module)
+
+import argv wants you to use arguments when running the pyton file.
+
+open(filename) will open the file for edits.
+filename.write() writes text to file.
+filename.truncate() = erases all content of specified file.
+file.close() closes the file.
+print(filename.read()) will read the file to the console.
+
+
+functions blocks begin with the word def for example:
+def functionname( parameters ):
+also always end with a ):
