@@ -56,3 +56,8 @@ print(filename.read()) will read the file to the console.
 functions blocks begin with the word def for example:
 def functionname( parameters ):
 also always end with a ):
+
+Every if-statement must have an else.
+Never nest if-statements more than two deep and always try to do them one deep.
+
+true and false should always start with capital letters: True false
